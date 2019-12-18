@@ -35,6 +35,7 @@ npm install moment
 
 # How to use
 You should be able to navigate the app here <http://localhost:3000>.
+public hosted at Heroku <https://lendingfront-loanengine.herokuapp.com/>
 
 
 Assessment Test Navigations and functionalities are followed as requested. 
