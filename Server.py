@@ -5,7 +5,7 @@ from flask_cors import CORS, cross_origin
 from sqlalchemy import create_engine
 from json import dumps
 
-dbPath="..\\LendingFront.Loan.Engine.DB\\LoanEngine.db"
+dbPath="\\LendingFront.Loan.Engine.DB\\LoanEngine.db"
 #dbPath="LoanEngine.db"
 db_connect = create_engine('sqlite:///'+dbPath)
 app = Flask(__name__)
