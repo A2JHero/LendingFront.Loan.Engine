@@ -14,18 +14,29 @@ The total amount of time used to create this Application was twelve (24) working
 # Prerequisites
 ## Python
 pip install flask
+
 pip install SQLAlchemy==1.3.12
+
 pip install requests
+
 pip install flask_cors
+
 npm install react-bootstrap bootstrap
+
 
 ## ReactJs
 npm install react-router-dom
+
 npm install react-bootstrap-date-picker
+
 npm install @material-ui/core
+
 npm install react-report-builder
+
 npm install peekdata-datagateway-api-sdk
+
 npm install moment
+
 
 # Installation
 1. Open solution folder in file explore
