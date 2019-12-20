@@ -1,0 +1,3 @@
+run:
+    web: npm run start
+    worker: python Server.py
